@@ -1,0 +1,11 @@
+{
+    "firstname": "Palak1",
+    "lastname": "Maheshwari",
+    "totalprice": 101,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2022-11-27",
+        "checkout": "2022-11-30"
+    },
+    "additionalneeds": "Breakfast"
+}
